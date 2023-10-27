@@ -9,6 +9,7 @@ def fix_rates(row):
 
 def fix_broadband(row):
     return row.split(':')[-1]
+    
 def get_house_data():
 
     base_url = "https://www.propertypal.com/property-for-sale/belfast" # base url will be used for iterating over each page
