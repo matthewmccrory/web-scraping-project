@@ -3,17 +3,17 @@ Project Summary: Exploring Belfast Property Data
 
 This project is a comprehensive exploration of Belfast property data, encompassing three key sections: data sourcing (propertypal.py), data cleaning (cleaning_data.ipynb), and data analysis (property_analysis.ipynb).
 
-Data Sourcing:
+## Data Sourcing:
 
 Leveraged web scraping techniques, specifically using Beautiful Soup, to extract property information from the PropertyPal website.
 Captured essential details such as property features, prices, locations, and additional relevant data for analysis.
 
-Data Cleaning:
+## Data Cleaning:
 
 Applied robust data cleaning procedures to ensure the dataset's readiness for analysis.
 Addressed issues such as missing values, outliers, and inconsistent formats to enhance the overall quality of the dataset.
 
-Data Analysis:
+## Data Analysis:
 
 Conducted exploratory data analysis (EDA) to unveil patterns, trends, and insights within the property dataset.
 Utilized statistical techniques, including a correlation matrix, to understand relationships between different variables.
