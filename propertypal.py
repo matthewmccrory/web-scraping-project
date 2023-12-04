@@ -11,7 +11,6 @@ def fix_broadband(row):
     return row.split(':')[-1]
     
 def get_house_data():
-
     base_url = "https://www.propertypal.com/property-for-sale/belfast" # base url will be used for iterating over each page
     other_url = "https://www.propertypal.com/" # used for concatenating with link to each individual house
     user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.9999.99 Safari/537.36" # need user agent to get through to property pal website
