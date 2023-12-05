@@ -1,22 +1,29 @@
-# web-scraping-project
-Project Summary: Exploring Belfast Property Data
+# Web Scraping Project - Exploring Belfast Property Data
 
-This project is a comprehensive exploration of Belfast property data, encompassing three key sections: data sourcing (propertypal.py), data cleaning (cleaning_data.ipynb), and data analysis (property_analysis.ipynb).
+## Project Summary
+This project offers a comprehensive exploration of Belfast property data, covering three main sections: data sourcing, data cleaning, and data analysis. The project leverages web scraping techniques, data cleaning procedures, and exploratory data analysis to gain insights into property features, prices, locations, and more.
 
-## Data Sourcing:
+## Sections
+### 1. Data Sourcing (propertypal.py)
+In this section, we employ web scraping techniques, specifically utilizing Beautiful Soup, to extract detailed property information from the PropertyPal website. The extraction process captures essential details such as property features, prices, locations, and additional relevant data crucial for analysis.
 
-Leveraged web scraping techniques, specifically using Beautiful Soup, to extract property information from the PropertyPal website.
-Captured essential details such as property features, prices, locations, and additional relevant data for analysis.
+### 2. Data Cleaning (cleaning_data.ipynb)
+Robust data cleaning procedures are applied in this section to ensure the dataset is prepared for in-depth analysis. Key tasks include addressing issues such as missing values, outliers, and inconsistent formats. The goal is to enhance the overall quality of the dataset and ensure its suitability for analysis.
 
-## Data Cleaning:
+### 3. Data Analysis (property_analysis.ipynb)
+In the data analysis phase, we conduct exploratory data analysis (EDA) to unveil patterns, trends, and insights within the property dataset. Statistical techniques, including a correlation matrix, are employed to understand relationships between different variables. Feature importance analysis is used to identify key factors influencing property prices. Additionally, a price calculator function is built, providing a summary of available properties and their price ranges based on user-defined search criteria. Geospatial visualizations using Tableau are implemented to present a spatial perspective on property distributions and trends.
 
-Applied robust data cleaning procedures to ensure the dataset's readiness for analysis.
-Addressed issues such as missing values, outliers, and inconsistent formats to enhance the overall quality of the dataset.
+## How to Use
+### 1. Data Sourcing 
+* Execute **'propertypal.py'** to perform web scraping and generate the initial dataset.
 
-## Data Analysis:
+### 2. Data Cleaning (cleaning_data.ipynb)
+* Open and run 'cleaning_data.ipynb' to apply xleaning procedures to the scraped dataset.
+  
+### 3. Data Analysis (property_analysis.ipynb)
+* Explore **'property_analysis.ipynb'** for detailed exploratory data analysis, feature importance analysis, and the price calculator function.
 
-Conducted exploratory data analysis (EDA) to unveil patterns, trends, and insights within the property dataset.
-Utilized statistical techniques, including a correlation matrix, to understand relationships between different variables.
-Employed feature importance analysis to identify key factors influencing property prices.
-Built a price calculator function that outputs a summary of the available properties and their range of prices based on the input search criteria.
-Implemented geospatial visualizations using Tableau, presenting a spatial perspective on property distributions and trends.
+
+## Contributors
+* Matthew McCrory
+
