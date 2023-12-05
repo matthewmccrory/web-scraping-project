@@ -18,7 +18,7 @@ In the data analysis phase, we conduct exploratory data analysis (EDA) to unveil
 * Execute **'propertypal.py'** to perform web scraping and generate the initial dataset.
 
 ### 2. Data Cleaning (cleaning_data.ipynb)
-* Open and run **'cleaning_data.ipynb'** to apply xleaning procedures to the scraped dataset.
+* Open and run **'cleaning_data.ipynb'** to apply cleaning procedures to the scraped dataset.
   
 ### 3. Data Analysis (property_analysis.ipynb)
 * Explore **'property_analysis.ipynb'** for detailed exploratory data analysis, feature importance analysis, and the price calculator function. The .png files showcase the geospatial analysis carried out using Tableau. 
