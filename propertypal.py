@@ -26,14 +26,14 @@ def get_house_data():
                         'BT7': 'South',
                         'BT8': 'South',
                         'BT9': 'South',
-                        'BT10': 'South/South-West',
+                        'BT10': 'South-West',
                         'BT11': 'West',
                         'BT12': 'West',
                         'BT13': 'North',
                         'BT14': 'North-West',
                         'BT15': 'North',
                         'BT16': 'East',
-                        'BT17': 'South/South-West'
+                        'BT17': 'West'
                         }
 
     page_nums = []
