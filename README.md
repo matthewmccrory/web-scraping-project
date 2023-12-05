@@ -18,5 +18,5 @@ Addressed issues such as missing values, outliers, and inconsistent formats to e
 Conducted exploratory data analysis (EDA) to unveil patterns, trends, and insights within the property dataset.
 Utilized statistical techniques, including a correlation matrix, to understand relationships between different variables.
 Employed feature importance analysis to identify key factors influencing property prices.
+Built a price calculator function that outputs a summary of the available properties and their range of prices based on the input search criteria.
 Implemented geospatial visualizations using Tableau, presenting a spatial perspective on property distributions and trends.
-Complemented the geospatial analysis with basic Python visualizations to enhance interpretability.
