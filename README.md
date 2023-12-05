@@ -25,5 +25,5 @@ In the data analysis phase, we conduct exploratory data analysis (EDA) to unveil
 
 
 ## Contributors
-* Matthew McCrory
+* Matthew McCrory MSc Data Analytics 
 
