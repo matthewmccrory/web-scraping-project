@@ -13,6 +13,8 @@ Robust data cleaning procedures are applied in this section to ensure the datase
 ### 3. Data Analysis (property_analysis.ipynb)
 In the data analysis phase, we conduct exploratory data analysis (EDA) to unveil patterns, trends, and insights within the property dataset. Statistical techniques, including a correlation matrix, are employed to understand relationships between different variables. Feature importance analysis is used to identify key factors influencing property prices. Additionally, a price calculator function is built, providing a summary of available properties and their price ranges based on user-defined search criteria. Geospatial visualizations using Tableau are implemented to present a spatial perspective on property distributions and trends.
 
+### 4. Tableau Dashboard
+
 ## How to Use
 ### 1. Data Sourcing 
 * Execute **'propertypal.py'** to perform web scraping and generate the initial dataset.
@@ -21,7 +23,10 @@ In the data analysis phase, we conduct exploratory data analysis (EDA) to unveil
 * Open and run **'cleaning_data.ipynb'** to apply cleaning procedures to the scraped dataset.
   
 ### 3. Data Analysis (property_analysis.ipynb)
-* Explore **'property_analysis.ipynb'** for detailed exploratory data analysis, feature importance analysis, and the price calculator function. The .png files showcase the geospatial analysis carried out using Tableau. 
+* Explore **'property_analysis.ipynb'** for detailed exploratory data analysis, feature importance analysis, and the price calculator function. The .png files showcase the geospatial analysis carried out using Tableau.
+
+### 4. Tableau Dashboard
+https://public.tableau.com/app/profile/matthew.mccrory/vizzes
 
 
 ## Contributors
