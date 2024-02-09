@@ -1,7 +1,7 @@
 # Web Scraping Project - Exploring Belfast Property Data
 
 ## Project Summary
-This project offers a comprehensive exploration of Belfast property data, covering three main sections: data sourcing, data cleaning, and data analysis. The project leverages web scraping techniques, data cleaning procedures, and exploratory data analysis to gain insights into property features, prices, locations, and more.
+This project offers a comprehensive exploration of Belfast property data, covering four main sections: data sourcing, data cleaning, data analysis, data visualization. The project leverages web scraping techniques, data cleaning procedures, and exploratory data analysis to gain insights into property features, prices, locations, and more.
 
 ## Sections
 ### 1. Data Sourcing (propertypal.py)
